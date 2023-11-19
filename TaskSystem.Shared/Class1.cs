@@ -1,0 +1,7 @@
+﻿namespace TaskSystem.Shared
+{
+    public class Class1
+    {
+
+    }
+}
